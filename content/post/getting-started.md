@@ -1,9 +1,4 @@
----
-output:
-  word_document: default
-  pdf_document: default
-  html_document: default
----
+
 +++
 date = 2016-04-20
 lastmod = 2018-09-20
