@@ -29,12 +29,24 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Ecology"
-  tag = ".ecology"
-
-[[filter]]
   name = "Biology"
   tag = ".biology"
+  
+[[filter]]
+  name = "Ecology"
+  tag = ".ecology"
+  
+  [[filter]]
+  name = "Zoology"
+  tag = ".zoology"
+  
+  [[filter]]
+  name = "Biochemistry"
+  tag = ".biochemistry"
+  
+  [[filter]]
+  name = "Cytology"
+  tag = ".cytology"
 
 [[filter]]
   name = "Other"

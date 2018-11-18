@@ -11,6 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Biology",
+    "Zoology",
+    "Cytology",
+    "Biochemistry",
+    "Ecology",
     "..."
   ]
 
@@ -26,12 +30,12 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
+  course = "Latin (4h) - Math (6h) - Sciences (6h)"
+  institution = "Institut Notre-Dame de Loverval"
   year = 2018
 
 +++
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+Actuellement étudiant en deuxième bachelier, section Sciences biologiques. Je compte poursuivre ma formation universitaire avec un master et éventuellement un doctorat. Ma spécialisation à venir sera guidée par mes préférences à la fin de mon bachelier.
