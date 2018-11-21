@@ -14,7 +14,6 @@ weight = 5
     "Zoology",
     "Cytology",
     "Biochemistry",
-    "Ecology",
     "..."
   ]
 
